@@ -1,0 +1,16 @@
+body {
+    padding: 16px;
+    margin-left: 16 auto;
+    background: rgb(0, 0, 0);
+    color: red;
+}
+
+button {
+    padding: 4px 10px;
+    font-size: 16px;
+    background-color: red;
+    margin-left: 16px;
+    text-align: center;
+    color: black;
+    border-radius: 12px;
+}
